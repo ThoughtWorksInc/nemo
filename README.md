@@ -6,7 +6,9 @@ This is the entry point for the Nemo project. Here you are only going to find in
 
 At ThoughtWorks we often receive thousands of job applications every month in each one of the 12 countries and 37 offices we operate (the list keeps growing). Going through each of these job applications is a laborous process and consumes an increbile amount of time from our recruiters.
 
-Nemo is a platform that aims to improve our recruitment pipeline by prioritizing the candidates that have the highest potential to get hired. It does so by using a few very clever algorithms and heuristics to best match a candidate profile with our culture and expectations. Also, Natural Language Processing and Machine Learning is planed in the future. Please keep in mind that no candidate is ever discarded by Nemo, the only thing Nemo computes is a priority index so candidates with more potential are interviewed and hired first.
+Nemo is a platform that aims to improve our recruitment pipeline by prioritizing the candidates that have the highest potential to get hired. It does so by using some very clever algorithms and heuristics to best match a candidate profile with our culture and expectations. Also, Natural Language Processing and Machine Learning is planed in the future. 
+
+Please keep in mind that no candidate is ever discarded by Nemo, the only thing Nemo computes is a priority index so candidates with more potential are interviewed and hired first.
 
 ## Obtaining access to the repositories
 
@@ -17,8 +19,10 @@ In order to access the repositories, you should meet the following criteria:
 
 Once you qualify, then:
 
-1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub (don't forget to let them know your username). This is a simple process and it should take no more than a day. _It is very important that you are included as a member of the ThoughtWorksInc organization, and not just added to specific repositories_.
-2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any team member from the list to include you in the team. All team members are administrators, so they can add anyone. _It is very important that you are included as a member of the Nemo team, and not just added to specific repositories_.
+1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub (don't forget to let them know your username). This is a simple process and it should take no more than a day.
+2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any team member from the list to include you in the team. All team members are administrators, so they can add anyone.
+
+Pleae make sure that you have been included as a member of the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization and then as a member of the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo). Once you have, then you will automatically have access to all existing repositories and new ones. If you are just manually added to specific repositories you are going to miss all the fun :D
 
 ## Project onboarding
 
@@ -35,8 +39,8 @@ And remember: [DON'T PANIC](https://en.wikipedia.org/wiki/Phrases_from_The_Hitch
 
 Because this is a public repository and the Nemo project contains confidential information. We are not ready to expose it to the public yet. Maybe in the future it could be disclosed as open-source.
 
-Also, part of the onboarding process requires exposing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability.
+Also, part of the onboarding process requires listing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability.
 
-This is a meta repository, therefore code should *never* be commited here. Also, please do not disclose any information that should not be made public.
+This is a meta repository, therefore code should *never* be commited here.
 
 Sorry for the inconvenience.
