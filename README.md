@@ -13,7 +13,7 @@ In order to access the repositories, you should meet the following criteria:
 
 Once you qualify, then:
 
-1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub. This is a simple process and it should take no more than a day. _It is very important that you are included as a member of the ThoughtWorksInc organization, and not just added to specific repositories_.
+1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub (don't forget to let them know your username). This is a simple process and it should take no more than a day. _It is very important that you are included as a member of the ThoughtWorksInc organization, and not just added to specific repositories_.
 2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any team member from the list to include you in the team. All team members are administrators, so they can add anyone. _It is very important that you are included as a member of the Nemo team, and not just added to specific repositories_.
 
 ## Project onboarding
