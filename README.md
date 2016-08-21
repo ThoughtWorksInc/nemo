@@ -2,7 +2,11 @@
 
 This is the entry point for the Nemo project. Here you are only going to find instructions on how to obtain access to the project. This repository was made public to ease our internal onboarding process. However, it is intended to be accessed and used only by [ThoughtWorks](http://thoughtworks.com) employees.
 
-This is a meta repository, therefore code should *never* be commited here. Also, please do not disclose any information that should not be made public.
+## What is Nemo?
+
+At ThoughtWorks we often receive thousands of job applications every month in each one of the 12 countries and 37 offices we operate (the list keeps growing). Going through each of these job applications is a laborous process and consumes an increbile amount of time from our recruiters.
+
+Nemo is a platform that aims to improve our recruitment pipeline by prioritizing the candidates that have the highest potential to get hired. It does so by using a few very clever algorithms and heuristics to best match a candidate profile with our culture and expectations. Also, Natural Language Processing and Machine Learning is planed in the future. Please keep in mind that no candidate is ever discarded by Nemo, the only thing Nemo computes is a priority index so candidates with more potential are interviewed and hired first.
 
 ## Obtaining access to the repositories
 
@@ -32,5 +36,7 @@ And remember: [DON'T PANIC](https://en.wikipedia.org/wiki/Phrases_from_The_Hitch
 Because this is a public repository and the Nemo project contains confidential information. We are not ready to expose it to the public yet. Maybe in the future it could be disclosed as open-source.
 
 Also, part of the onboarding process requires exposing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability.
+
+This is a meta repository, therefore code should *never* be commited here. Also, please do not disclose any information that should not be made public.
 
 Sorry for the inconvenience.
