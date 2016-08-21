@@ -26,12 +26,7 @@ Once you qualify, then:
 
 ## Project onboarding
 
-Now that you are a member of the Nemo team, go ahead and access the [nemo-onboarding](https://github.com/ThoughtWorksInc/nemo-onboarding) repository for:
-
-- Project overview
-- Architecture overview
-- List of tools we use as a team, and how to obtain access to them
-- List of all repositories (you should be able to access them now)
+Now that you are a member of the Nemo team, go ahead and access the [nemo-project](https://github.com/ThoughtWorksInc/nemo-project) repository to know more about the project, obtain access to the tools we use and understand our technical architecture.
 
 And remember: [DON'T PANIC](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don.27t_Panic)!
 
