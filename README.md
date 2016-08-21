@@ -1,13 +1,33 @@
-# Nemo:
+# Welcome to the Nemo project
 
-You need to send an email to ```techops-support@thoughtworks.com``` to access Nemo repositories
+This is the entry point for the Nemo project. Here we list all the repositories and tools we use, and how to obtain access to them. This is a meta repository, therefore code should *never* be commited here.
 
-You need to send an email to ```nmoura@thoughtworks.com``` to access [Nemo board](https://nemo-recruiting.mingle.thoughtworks.com/projects/nemo/cards/grid?color_by=type&filters%5B%5D=%5BType%5D%5Bis%5D%5Bstory%5D&filters%5B%5D=%5BType%5D%5Bis%5D%5Btech+tasks%5D&filters%5B%5D=%5BType%5D%5Bis%5D%5Bbug%5D&filters%5B%5D=%5BEntrega+-+iteration%5D%5Bis%5D%5B131%5D&group_by%5Blane%5D=Status&lanes=Bloqueado%2CPronto+para+desenvolver%2CEm+desenvolvimento%2CQA%2CPronto+para+produ%C3%A7%C3%A3o%2CAguardando+aprova%C3%A7%C3%A3o&tab=Kanban)
+This repository was made public to ease our internal onboarding process. However, it is intended to be accessed and used only by [ThoughtWorks](http://thoughtworks.com) employees.
 
-#### Repositories:
+**Please do not commit any confidential information here**
 
-https://github.com/ThoughtWorksInc/nemo-job-application-api
+## Obtaining access to the repositories
 
-https://github.com/ThoughtWorksInc/nemo-recruiter-app
+In order to access the repositories, you should meet the following criteria:
 
-https://github.com/ThoughtWorksInc/nemo-candidate-app
+- Be a [ThoughtWorks](http://thoughtworks.com) employee.
+- Have a free [GitHub](https://github.com/join) account (can be your personal one, it doesn't need to be registered with a ThoughtWorks e-mail).
+
+Once you qualify, then:
+
+1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub. This is a simple process and it should take not more than a day. _It is very important that you are included as a member of the ThoughtWorksInc organization, and not just added to specific repositories_.
+2. As soon as you are a member of @ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any team member from the list to include you in the team. All team members are administrators, so they can add anyone. _It is very important that you are included as a member of the Nemo team, and not just added to specific repositories_.
+
+If you have problems, please reach Nayara Moura (nmoura@thoughtworks.com) or Gregório Melo (gmelo@thoughtworks.com).
+
+## Obtaining access to our Mingle board
+
+We use [Mingle](https://www.thoughtworks.com/mingle/), an Agile project management software created by ThoughtWorks.
+
+Please contact Nayara Moura (nmoura@thoughtworks.com) or Gregório Melo (gmelo@thoughtworks.com), asking to be included in the board. Here's the link: https://nemo-recruiting.mingle.thoughtworks.com.
+
+## List of repositories:
+
+- https://github.com/ThoughtWorksInc/nemo-candidate-app
+- https://github.com/ThoughtWorksInc/nemo-job-application-api
+- https://github.com/ThoughtWorksInc/nemo-recruiter-app
