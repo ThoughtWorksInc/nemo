@@ -18,7 +18,7 @@ Once you qualify, then:
 
 ## Project onboarding
 
-Now that you are a member of the Nemo team, go ahead and access the [nemo-onboarding](https://github.com/ThoughtWorksInc/nemo-onboarding) repository for:
+Now that you are a member of the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo), go ahead and access the [nemo-onboarding](https://github.com/ThoughtWorksInc/nemo-onboarding) repository for:
 
 - Project overview
 - Architecture overview
@@ -31,4 +31,6 @@ And remember: [DON'T PANIC](https://en.wikipedia.org/wiki/Phrases_from_The_Hitch
 
 Because this is a public repository and the Nemo project contains confidential information. We are not ready to expose it to the public yet. Maybe in the future it could be disclosed as open-source.
 
-Sorry for any inconvenience.
+Also, part of the onboarding process requires exposing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability.
+
+Sorry for the inconvenience.
