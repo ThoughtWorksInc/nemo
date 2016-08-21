@@ -1,6 +1,6 @@
-# Welcome to the Nemo project
+# This is the entry-point for the Nemo project
 
-This is the entry point for the Nemo project. Here you are only going to find instructions on how to obtain access to the project. This repository was made public to ease our internal onboarding process. However, it is intended to be accessed and used only by [ThoughtWorks](http://thoughtworks.com) employees.
+Here you are only going to find instructions on how to obtain access to the project. This repository was made public to ease our internal onboarding process. However, it is intended to be accessed and used only by [ThoughtWorks](http://thoughtworks.com) employees.
 
 ## What is Nemo?
 
@@ -34,8 +34,4 @@ And remember: [DON'T PANIC](https://en.wikipedia.org/wiki/Phrases_from_The_Hitch
 
 Because this is a public repository and the Nemo project contains confidential information. We are not ready to expose it to the public yet. Maybe in the future it could be disclosed as open-source.
 
-Also, part of the onboarding process requires listing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability.
-
-This is a meta repository, therefore code should *never* be commited here.
-
-Sorry for the inconvenience.
+Also, part of the onboarding process requires listing tools, accounts and e-mails we use. Exposing this information here would be a security and privacy liability. This is a meta repository, therefore code should *never* be commited here.
