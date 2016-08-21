@@ -14,7 +14,7 @@ Please keep in mind that no candidate is ever discarded by Nemo, the only thing 
 
 In order to access the repositories, you should meet the following criteria:
 
-- Be a [ThoughtWorks](http://thoughtworks.com) employee.
+- Be a ThoughtWorks employee.
 - Have a free [GitHub](https://github.com/join) account (can be your personal one, it doesn't need to be registered with a ThoughtWorks e-mail).
 
 Once you qualify, then:
