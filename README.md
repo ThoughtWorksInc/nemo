@@ -15,12 +15,12 @@ Please keep in mind that no candidate is ever discarded by Nemo, the only thing 
 In order to access the repositories, you should meet the following criteria:
 
 - Be a ThoughtWorks employee.
-- Have a free [GitHub](https://github.com/join) account (can be your personal one, it doesn't need to be registered with a ThoughtWorks e-mail).
+- Have a (free) [GitHub](https://github.com/join) account. If you don't have one already, you're missing the party :D
 
 Once you qualify, then:
 
 1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub (don't forget to let them know your username). This is a simple process and it should take no more than a day.
-2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any member from the list to include you in the team. All team members are administrators, so they can add anyone.
+2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any member from the list to include you in the team. All members are team maintainers, so they can add anyone.
 
 If you login with your GitHub username you should be able to access all Nemo repositories now, which are listed [here](https://github.com/orgs/ThoughtWorksInc/teams/nemo/repositories). If you cannot see them, ask someone for help.
 
