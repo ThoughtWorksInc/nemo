@@ -22,7 +22,7 @@ Once you qualify, then:
 1. Send an e-mail to techops-support@thoughtworks.com from your ThoughtWorks e-mail account, requesting your GitHub username be included in the [ThoughtWorksInc](https://github.com/ThoughtWorksInc) organization on GitHub (don't forget to let them know your username). This is a simple process and it should take no more than a day.
 2. As soon as you are a member of ThoughtWorksInc, then look for the [Nemo team](https://github.com/orgs/ThoughtWorksInc/teams/nemo) and ask any member from the list to include you in the team. All team members are administrators, so they can add anyone.
 
-You should be able to access now all Nemo repositories, which are listed [here](https://github.com/orgs/ThoughtWorksInc/teams/nemo/repositories). If you cannot see them, ask someone for help.
+If you login with your GitHub username you should be able to access all Nemo repositories now, which are listed [here](https://github.com/orgs/ThoughtWorksInc/teams/nemo/repositories). If you cannot see them, ask someone for help.
 
 **THIS IS IMPORTANT:** Please make sure that you have been added as a member of the ThoughtWorksInc organization and then as a member of the Nemo team. Once you have, then you will automatically have access to all existing repositories and new ones. If you are just manually added to specific repositories life is going to be more difficult for you and you will spoil the fun :D
 
